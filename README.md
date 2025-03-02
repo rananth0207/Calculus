@@ -8,7 +8,7 @@ honestly, my little brother asked me to teach him calculus and i figured it'd be
 
 ## Table of Contents
 
-each concept will have two documents: one that takes a more intuitive approach, and one that lays out the more formal underpinnings of the concept. i'll add question guides as i go, and i hope in the future to add a few visualizations and such. the syllabus is as follows:
+each concept will be in a branch, and each branch will have two documents: one that takes a more intuitive approach, and one that lays out the more formal underpinnings of the concept. i'll add question guides as i go, and i hope in the future to add a few visualizations and such. the syllabus is as follows:
 
 1. **essential concepts:** this includes slope, independent variables, rate of change, tangents and some background stuff about calculus itself.
 2. **intro to limits:** this covers the concept of a limit, continuity, asymptotes, and evaluating limits.
